@@ -166,6 +166,15 @@
     <country>IE</country>
   </company>
   <company>
+    <isin>NL0000313286</isin>
+    <conid>2950378</conid>
+    <symbol>ACOMO</symbol>
+    <name>Acomo N.V.</name>
+    <taxNumber>NL0000313286</taxNumber>
+    <address>WTC, Beursplein 37, 21st floor, Rotterdam 3011 AA</address>
+    <country>NL</country>
+  </company>
+  <company>
     <isin>NL0011794037</isin>
     <conid>240486295</conid>
     <symbol>AD.AS</symbol>
@@ -1074,6 +1083,14 @@
     <country>US</country>
   </company>
   <company>
+    <isin>US3024913036</isin>
+    <symbol>FMC</symbol>
+    <name>FMC Corporation</name>
+    <taxNumber>US3024913036</taxNumber>
+    <address>FMC Tower, 2929 Walnut Street, Philadelphia, Pennsylvania 19104, United States</address>
+    <country>US</country>
+  </company>
+  <company>
     <isin />
     <conid>69238858</conid>
     <symbol>FNV</symbol>
@@ -1081,6 +1098,14 @@
     <taxNumber>839026358</taxNumber>
     <address>Commerce Court West, 199 Bay St. #2000, Toronto, ON M5L 1G9</address>
     <country>CA</country>
+  </company>
+  <company>
+    <isin>BMG348041077</isin>
+    <symbol>FPC</symbol>
+    <name>First Pacific Company Limited</name>
+    <taxNumber>BMG348041077</taxNumber>
+    <address>24/F Two Exchange Square, 8 Connaught Place Central, Hong Kong SAR</address>
+    <country>HK</country>
   </company>
   <company>
     <isin />
@@ -1256,7 +1281,7 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US3742971092</isin>
     <conid>7855</conid>
     <symbol>GTY</symbol>
     <name>Getty Realty Corp.</name>
@@ -2641,6 +2666,15 @@
     <country>GB</country>
   </company>
   <company>
+    <isin>US8610121027</isin>
+    <conid>12460</conid>
+    <symbol>STM</symbol>
+    <name>STMicroelectronics N.V.</name>
+    <taxNumber>US8610121027</taxNumber>
+    <address>39, Chemin du Champ des Filles C. P. 21 Geneva</address>
+    <country>NL</country>
+  </company>
+  <company>
     <isin />
     <symbol>STOR</symbol>
     <name>Store Capital Corp</name>
@@ -2774,6 +2808,15 @@
     <taxNumber>8770013406</taxNumber>
     <address>Turkcell Kucukyali Plaza, Aydinevler, 34854 Maltepe/Istanbul</address>
     <country>TR</country>
+  </company>
+  <company>
+    <isin>US8923313071</isin>
+    <conid>275241</conid>
+    <symbol>TM</symbol>
+    <name>Toyota Motor Corporation</name>
+    <taxNumber>US8923313071</taxNumber>
+    <address>1 Toyota-Cho, Toyota City, Aichi Prefecture 471-8571</address>
+    <country>JP</country>
   </company>
   <company>
     <isin />
